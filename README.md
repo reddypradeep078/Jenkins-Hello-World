@@ -22,7 +22,7 @@ We will be doing is
 
 * Installing Jenkins and running it, on a local machine
 * Creating a docker image
-* Pushing it to docker hub using Jenkins' pipeline
+* Pushing it to docker hub using Jenkins' pipelinehttps://1742-146-196-36-138.in.ngrok.io
 
 ___
 
@@ -153,4 +153,4 @@ Now we are ready to integrate any GitHub repository with Jenkins
 9. Now in the `Jenkinsfile` in the `environment` set the ID
 
 The pipeline is now created, push code to GitHub to see the pipeline run
-hjhjfgjhjkdgfh
+hjhjfgjhjkdgfhgtry
