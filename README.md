@@ -58,7 +58,7 @@ We would be using standard `systemctl` commands
 - To start  
 ```
 sudo systemctl start jenkins
-```
+```https://1742-146-196-36-138.in.ngrok.io 
 
 - To check status  
 ```
@@ -153,4 +153,4 @@ Now we are ready to integrate any GitHub repository with Jenkins
 9. Now in the `Jenkinsfile` in the `environment` set the ID
 
 The pipeline is now created, push code to GitHub to see the pipeline run
-hjhjfgjhjkdgfhgtrybvnsdghdtyffdgfdtrhytjyjh
+hjhjfgjhjkdgfhgtrybvnsdghdtyffdgfdtrhytjyjhsdfhh
