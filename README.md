@@ -148,9 +148,9 @@ Now we are ready to integrate any GitHub repository with Jenkins
 
    e. Keep scope `Global`
 
-   f. Enter Docker Hub username & password and set some ID in ID field
+   f. Enter Docker Hub username & password and set some ID in ID fieldhttps://1742-146-196-36-138.in.ngrok.io
 
 9. Now in the `Jenkinsfile` in the `environment` set the ID
 
 The pipeline is now created, push code to GitHub to see the pipeline run
-hjhjfgjhjk
+hjhjfgjhjkdgfh
